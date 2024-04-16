@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+.table {
+    display: flex;
+    flex-direction: column;
+}

@@ -12,7 +12,9 @@ function Square(props: SquareProps) {
 
     return (
         <li className={props.color + " box"}>
-            <span className="identifier">{letters[props.row]+props.column}</span>
+            {/* <div className="dark-pawn-up"></div> */}
+            <span className="identifier">{letters[props.row] + props.column}</span>
+
         </li>
     )
 }

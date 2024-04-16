@@ -27,3 +27,9 @@ li {
 .identifier {
     color: green
 }
+
+.dark-pawn-up {
+    background-image: url(../../assets/pieces/dark_pawn_up.svg);
+    background-position: center;
+    background-size: cover;
+}
